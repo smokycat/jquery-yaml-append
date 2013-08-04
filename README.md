@@ -3,6 +3,12 @@ jquery-yaml-append
 
 This is a jQuery's plugin which creates complex DOM structure like as YAML.
 
+This works with coffee-scrpt
+----------------------------
+
+This plugin's syntax depends on coffee script.
+So, if you are pure javascript programmer, this plugin make your code more unreadable.
+
 Example
 -------
 
